@@ -7,7 +7,7 @@ If you have any comments or ideas, feel free to contact us by opening new Github
 + Võ Nhật Tân
 + Ngô Đức Bảo
 
-Github: [Github link](https://github.com/vntan/HeartFailureAnalysis.git)
+Github: [Github link](https://github.com/vntan/HeartFailureAnalysis.git) \
 Work Schedule: [Schedule link](https://docs.google.com/spreadsheets/d/19RTN8ro4JKiJMQ6meTZVW_WWgOCg82QGKRR5Z599S_I/edit?usp=sharing)
 
 ### Dataset
